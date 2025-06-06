@@ -41,4 +41,4 @@ The clock uses JavaScript to get the current time and convert it to rotation ang
 
 ## Live demo
 
-Open `index.html` in any modern browser to see the clock in action.
+[View the working analog clock](https://distilledmilk.github.io/clock/)
