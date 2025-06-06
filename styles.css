@@ -98,9 +98,9 @@ span, b{
 }
 
 #min{
-    inset: -6px;
+    inset: -10px;
 }
 
-#thick{
-    inset:-6px;
+#min-hand{
+    inset: -10px;
 }
